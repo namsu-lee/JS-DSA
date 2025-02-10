@@ -34,7 +34,7 @@ LeetCode : medium
 
 백준: solved.ac Platinum IV ~ Ruby I
 
-프로그래머스: Lv. 4
+프로그래머스: Lv. 4 ~ Lv. 5
 
 LeetCode : hard
 
