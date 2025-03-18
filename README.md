@@ -30,6 +30,7 @@
 <td>
 
 [개념](/01.Intro/개념.md)
+
 </td>
 <td></td>
 </tr>
@@ -39,6 +40,7 @@
 <td>
 
 [개념](/02.Analyze_of_Algorithm/개념.md)
+
 </td>
 <td></td>
 </tr>
@@ -48,10 +50,12 @@
 <td>
 
 [개념 및 메서드](/03.String/개념%20및%20메서드.md)<br/>[정규식](/03.String/정규식.md)
+
 </td>
 <td>
 
 [문제](/03.String/문제.md)
+
 </td>
 </tr>
 
@@ -60,22 +64,42 @@
 <td>
 
 [개념 및 메서드](/04.Array/개념%20및%20메서드.md)
+
 </td>
 <td>
 
 [문제](/04.Array/문제목록.md)
+
 </td>
 </tr>
 
 <tr>
-<td>05. 스택</td>
+<td>05. 연결 리스트</td>
 <td>
 
-[개념](05.Stack/개념.md)
+[개념](05.LinkedList/개념.md)
+
 </td>
 <td>
 
-[문제](05.Stack/문제.md)
+<!-- [문제](06.Stack/문제.md) -->
+
+</td>
+</tr>
+
+</table>
+
+<tr>
+<td>06. 스택</td>
+<td>
+
+[개념](06.Stack/개념.md)
+
+</td>
+<td>
+
+[문제](06.Stack/문제.md)
+
 </td>
 </tr>
 
